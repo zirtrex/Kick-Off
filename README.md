@@ -7,7 +7,7 @@
 The main goal of KickOff is to <strong>quickly get you started on your project</strong> with <a href="https://getuikit.com/" target="_blank">UIkit 3</a>, bringing a <strong>solid layout foundation</strong> to work upon.
 
 ### CSS Styles
-
+ 
 All the layouts are based on default UIkit styles to keeps things clean and simple, but some layouts may use some custom css code.
 
 The css styles are the minified latest version of UIKit 3 ( latest ) from the cdn.
